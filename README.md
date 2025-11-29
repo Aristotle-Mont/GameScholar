@@ -1,4 +1,4 @@
-#FootBall Scholar
+# FootBall Scholar
 
 
 I want to make an iOS app for people who are new to the United states of America but wants to learn more about football and the NBA so this app needs to have and show all the teams playing and on what day and keep a list of favorite team as well as learn rules, players name background and then get a live update of them to later send them links to create their own fantasy football team, sports betting like prizepick or more. I want this app to be simple to use and engaging. Please create a MVP for this.
